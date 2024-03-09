@@ -1,0 +1,29 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+Vcore:                  1.20 V  (min =  +0.00 V, max =  +3.49 V)
++5.0V:                  5.06 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++3.3V:                  3.34 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
++12V:                  12.14 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU VDDCR_SOC:        1000.00 mV (min =  +0.00 V, max =  +0.00 V)
+DRAM:                   1.35 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+3Vsb:                   3.46 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VBat:                   3.31 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+VPPM Voltage:           2.53 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU VDD 1.8V Voltage:   1.82 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+CPU Fan:               747 RPM  (min =    0 RPM)
+SYS Fan 1:               0 RPM  (min =    0 RPM)
+SYS Fan 2:               0 RPM  (min =    0 RPM)
+SYS Fan 3:             417 RPM  (min =    0 RPM)
+Motherboard:           +38.0°C  (high = +80.0°C, hyst = +75.0°C)
+                                (crit = +127.0°C)  sensor = thermistor
+CPU MB:                +33.0°C  (high = +80.0°C, hyst = +75.0°C)
+                                (crit = +80.0°C)  sensor = thermistor
+AUXTIN3:               +31.0°C  (high = +80.0°C, hyst = +75.0°C)
+                                (crit = +100.0°C)  sensor = thermistor
+AUXTIN4:               +26.0°C  (high = +80.0°C, hyst = +75.0°C)
+                                (crit = +80.0°C)
+SMBUSMASTER 0:         +36.0°C  (high = +80.0°C, hyst = +75.0°C)
+TSI0_TEMP:             +36.4°C  
+intrusion0:           ALARM
+intrusion1:           ALARM
+beep_enable:          disabled
