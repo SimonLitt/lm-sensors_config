@@ -1,3 +1,3 @@
 Lm-sensors configuration files.
 
-You can copy this configuration files to folder /etc/sensors.d/
+You can copy necessary configuration files from the project folder `sensors.d` to your system directory /etc/sensors.d/
