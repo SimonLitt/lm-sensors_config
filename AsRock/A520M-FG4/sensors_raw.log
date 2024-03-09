@@ -1,0 +1,131 @@
+nct6798-isa-0290
+Adapter: ISA adapter
+Vcore:
+  in0_input: 1.104
+  in0_min: 0.000
+  in0_max: 3.488
+  in0_alarm: 0.000
+  in0_beep: 0.000
++5.0V:
+  in1_input: 5.064
+  in1_min: 0.000
+  in1_max: 0.000
+  in1_alarm: 1.000
+  in1_beep: 0.000
++3.3V:
+  in3_input: 3.344
+  in3_min: 0.000
+  in3_max: 0.000
+  in3_alarm: 1.000
+  in3_beep: 0.000
++12V:
+  in4_input: 12.144
+  in4_min: 0.000
+  in4_max: 0.000
+  in4_alarm: 1.000
+  in4_beep: 0.000
+CPU VDDCR_SOC:
+  in5_input: 1.000
+  in5_min: 0.000
+  in5_max: 0.000
+  in5_beep: 0.000
+DRAM:
+  in6_input: 1.352
+  in6_min: 0.000
+  in6_max: 0.000
+  in6_alarm: 1.000
+  in6_beep: 0.000
+3Vsb:
+  in7_input: 3.456
+  in7_min: 0.000
+  in7_max: 0.000
+  in7_alarm: 1.000
+  in7_beep: 0.000
+VBat:
+  in8_input: 3.312
+  in8_min: 0.000
+  in8_max: 0.000
+  in8_alarm: 1.000
+  in8_beep: 0.000
+VPPM Voltage:
+  in11_input: 2.528
+  in11_min: 0.000
+  in11_max: 0.000
+  in11_alarm: 1.000
+  in11_beep: 0.000
+CPU VDD 1.8V Voltage:
+  in14_input: 1.824
+  in14_min: 0.000
+  in14_max: 0.000
+  in14_alarm: 1.000
+  in14_beep: 0.000
+CPU Fan:
+  fan2_input: 743.000
+  fan2_min: 0.000
+  fan2_alarm: 0.000
+  fan2_beep: 0.000
+  fan2_pulses: 2.000
+SYS Fan 1:
+  fan5_input: 0.000
+  fan5_min: 0.000
+  fan5_alarm: 0.000
+  fan5_beep: 0.000
+  fan5_pulses: 2.000
+SYS Fan 2:
+  fan6_input: 0.000
+  fan6_min: 0.000
+  fan6_alarm: 0.000
+  fan6_pulses: 2.000
+SYS Fan 3:
+  fan7_input: 420.000
+  fan7_min: 0.000
+  fan7_pulses: 2.000
+Motherboard:
+  temp1_input: 38.000
+  temp1_max: 80.000
+  temp1_max_hyst: 75.000
+  temp1_crit: 127.000
+  temp1_alarm: 0.000
+  temp1_type: 4.000
+  temp1_offset: 0.000
+  temp1_beep: 0.000
+CPU MB:
+  temp2_input: 33.000
+  temp2_max: 80.000
+  temp2_max_hyst: 75.000
+  temp2_crit: 80.000
+  temp2_alarm: 0.000
+  temp2_type: 4.000
+  temp2_offset: 0.000
+  temp2_beep: 0.000
+AUXTIN3:
+  temp6_input: 31.000
+  temp6_max: 80.000
+  temp6_max_hyst: 75.000
+  temp6_crit: 100.000
+  temp6_alarm: 0.000
+  temp6_type: 4.000
+  temp6_offset: 0.000
+  temp6_beep: 0.000
+AUXTIN4:
+  temp7_input: 26.000
+  temp7_max: 80.000
+  temp7_max_hyst: 75.000
+  temp7_crit: 80.000
+  temp7_alarm: 0.000
+  temp7_beep: 0.000
+SMBUSMASTER 0:
+  temp8_input: 34.000
+  temp8_max: 80.000
+  temp8_max_hyst: 75.000
+  temp8_beep: 0.000
+TSI0_TEMP:
+  temp13_input: 34.625
+intrusion0:
+  intrusion0_alarm: 1.000
+  intrusion0_beep: 0.000
+intrusion1:
+  intrusion1_alarm: 1.000
+  intrusion1_beep: 0.000
+beep_enable:
+  beep_enable: 0.000
